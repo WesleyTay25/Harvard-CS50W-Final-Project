@@ -2,6 +2,7 @@
 
 **CS50W Final Project**
 Author: Wesley Tay
+
 Demo Video: https://youtu.be/4mF_HLOnMoY
 
 ## Description
